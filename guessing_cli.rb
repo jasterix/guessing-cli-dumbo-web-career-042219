@@ -1,4 +1,6 @@
 # Code your solution here!
+
+#The point of this lab was to interact with the bin executable file. The method itself was pretty easy to work out
 def run_guessing_game
   loop do
     puts "Guess a number between 1 and 6."
